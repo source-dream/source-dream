@@ -3,6 +3,9 @@
   <a href="https://blog.sourcedream.cn">Blog</a>
 </p>
 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=source-dream&layout=compact&theme=tokyonight)-->
+
+
 <!--
 **source-dream/source-dream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
