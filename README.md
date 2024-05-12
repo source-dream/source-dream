@@ -1,4 +1,7 @@
-### Hi there 👋
+<h2 align="center">👋 Hello! I'm SourceDream</h2>
+<p align="center">
+  <a href="https://blog.sourcedream.cn">Blog</a>
+</p>
 
 <!--
 **source-dream/source-dream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
